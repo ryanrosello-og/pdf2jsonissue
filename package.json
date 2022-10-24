@@ -1,0 +1,16 @@
+{
+  "name": "repro_pdf2json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  },
+  "dependencies": {
+    "pdf2json": "^3.0.0"
+  }
+}
